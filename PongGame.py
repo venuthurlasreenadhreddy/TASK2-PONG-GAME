@@ -1,9 +1,3 @@
-# -*-coding:Latin-1 -*
-
-# Simple Pong
-# By @TokyoEdTech
-# Part 6 : Scoring
-
 #import os
 import turtle
 
